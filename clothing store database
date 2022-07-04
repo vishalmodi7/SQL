@@ -1,5 +1,4 @@
 --create a clothing store database
-
 CREATE TABLE store (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER, each_price REAL, aisle INTEGER);
 
 INSERT INTO store VALUES
